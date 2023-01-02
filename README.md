@@ -1,2 +1,2 @@
-# chira.github.io
+# amit-portfolio
 Profile
