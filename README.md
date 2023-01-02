@@ -1,2 +1,2 @@
-# amit-portfolio
-Self Portfolio Website
+# chira.github.io
+Profile
